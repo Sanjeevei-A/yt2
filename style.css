@@ -1,0 +1,35 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.img1{
+    display: block;
+    width: 300px;
+    margin-right: 20px;
+
+}
+.p1{
+    width: 350px;
+    line-height: 23px;
+
+}
+
+    
+
+.p2{
+    margin-bottom: 6px;
+    margin-top: 0px;
+    color: grey; 
+}
+.p3{
+    margin-top: 0px;
+    color: gray;
+}
+div{
+    display: inline-block;
+    vertical-align: top;
+    
+}
+.mysearch{
+    display: block;
+}
